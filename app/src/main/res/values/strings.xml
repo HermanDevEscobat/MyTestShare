@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">On Pure Sound</string>
+    <!-- TODO: Remove or change this placeholder text -->
+       <string name="page_number_1">Page number 1</string>
+    <string name="page_number_2">Page number 2</string>
+    <string name="todo">TODO</string>
+    <string name="element_text" />
+</resources>
